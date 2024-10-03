@@ -1,0 +1,78 @@
+nav a{
+    color: #1e1e1e;
+    font-family: "Rowdies", sans-serif;
+    font-size: 1.25rem;
+}
+.flex-wrapper{
+    display: flex;
+    justify-content: right;
+    background-color: #efeb46;
+    padding: 1rem;
+    gap: 1rem;
+}
+.eyes{
+    display: flex;
+    max-width: 100px;
+
+}
+
+nav a:hover{
+    color: #c2c8bc;
+}
+*{ margin: 0; }
+
+body{
+    background-color: #84a0d5;
+}
+main{
+        background-color: #c2c8bc;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 35px;
+        border-radius: 5px;
+}
+h1{
+    font-size: 110px;
+    margin-left: 20px;
+}
+.fascinate-inline-regular {
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+.oneminion{
+    display: inline-block;
+    max-width: 100%;
+    float: right;
+}
+
+.threeminion{
+    display: inline-block;
+    max-width: 500%;
+    float: right;
+}
+.logo{
+    display: inline-block;
+    width: 1000px;
+}
+p{
+    font-size: 30px;
+}
+
+
+.item p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 20px;
+}
+
+.food {
+    width: 75%;
+    text-align: left;
+}
+
+.price{
+    width: 25%;
+    text-align: right;
+}
+
